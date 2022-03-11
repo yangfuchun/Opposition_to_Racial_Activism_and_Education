@@ -4,7 +4,8 @@ The United States has a long history of racial injustice and conflict, and the c
 
 
 Research Question
-•	“How and why do states differ on their opposition to activities focused on addressing race in the U.S.?” Specifically:
+•	“How and why do states differ on their opposition to activities focused on addressing race in the U.S.?” 
+Specifically:
 •	Do differences in state characteristics in education, economics, policing, political ideology, and diversity associate with level of opposition to BLM?  
 •	Do differences in state characteristics in education, economics, political ideology, and diversity associate with whether states have actively engaged in legislative action to limit race education in schools?
 
