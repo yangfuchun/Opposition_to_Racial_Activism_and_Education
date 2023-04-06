@@ -5,3 +5,4 @@ This project aims to examine the opposition to two initiatives focused on addres
 ### List of tools used
 `Excel` `R` `Tableau`
 ### Snapshots
+<img width="528" alt="image" src="https://user-images.githubusercontent.com/100629848/230499183-1574da25-36a3-4037-8dbf-ac4e154b4190.png">
