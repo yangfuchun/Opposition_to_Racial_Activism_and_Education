@@ -1,12 +1,11 @@
-# Opposition-to-Racial-Activism-and-Education
+### Overview
+This project aims to examine the opposition to two initiatives focused on addressing racial inequality in the United States - the Black Lives Matter (BLM) movement and incorporating information on the country's history of racial and ethnic oppression into school curriculum. Despite the United States' long history of racial injustice and conflict, there is ongoing disagreement and divisiveness around acknowledging and addressing racial discrimination, inequality, and the legacy of slavery. The project will investigate the reasons behind this opposition to these initiatives, which may include political ideologies, social and cultural beliefs, and systemic biases, among other factors by using statistical analyses and digestible data visualizations. The goal is to gain a better understanding of the barriers to progress in achieving racial equity and justice in the United States.
 
-The United States has a long history of racial injustice and conflict, and the country remains divided on its recognition and concern about racial discrimination, racial inequality, and the legacy of slavery. Though certainly not new, over the past several years, activism and pressure for social change to improve racial equity has been increasing and nationally focal. There has been resistance and counter-activism in reaction to these attempts at change. This paper will look at opposition to two activities geared toward recognizing and addressing racial inequality – the Black Lives matter Movement (BLM) and including information on the country’s history of racial and ethnic oppression in school curriculum.
+### Description of files
+- [Food_Access_Research_Atlas_Data](https://www.ers.usda.gov/data-products/food-access-research-atlas/): Contains an overview of food access indicators for low-income and other census tracts using different measures of supermarket accessibility; provides food access data for populations within census tracts; and offers census-tract-level data on food access 
+- [CPS_Food_Security_Supplement](https://health.gov/healthypeople/objectives-and-data/data-sources-and-methods/data-sources/current-population-survey-food-security-supplement-cps-fss): Contains annual food security survey data on food access, spending, and assistance in order to gauge the prevalence and severity of food insecurity in U.S. households. 
 
+### List of tools used
+`Excel` `R` `Tableau`
 
-Summary of tasks: 
-1. Used Tableau to better visualize the % of state population in opposition to BLM & active or in-process anti-CRT legislation in the U.S. 
-2. Compuated and Compared variables in relation to race attitudes by states
-  a. Variables - Education, Racial and Ethnic Diversity, Economy, Political Ideology, Police Activity
-3. Ran a regression that predicts the % opposed to BLM as a function of the 7 variables on education, economics, diversity, political ideology and policing
-4. Ran a regression that predicts whether a state has or is actively pursuing legislation to limit race education
-5. Drafted a professional report for both audiences with statistical background and audiences without statistical background
+### Snapshots
